@@ -1,2 +1,2 @@
-# numboards_one
-numboards_one repository
+# numboard_one
+numboard_one repository
